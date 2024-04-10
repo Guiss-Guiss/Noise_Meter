@@ -49,6 +49,7 @@ void loop()
         3.0v = 85 dBa
         3.3v = 90 dBa
         Those are starting values, you may need to calibrate your electret microphone.
+        Make sure the adjustable gain potentiometer on the MAX4466 microphone is turned fully clockwise.
   */
        {
       if (volts < 1.0) {

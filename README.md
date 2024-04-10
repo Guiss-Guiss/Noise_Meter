@@ -7,3 +7,10 @@ Sound levels are calibrated using white noise and a Digital Sound Level Meter, w
 Voltages between 1.0V and 3.0V light up the green LED, indicating moderate noise levels, while voltages of 3.0V and above activate the red LED, warning of high noise levels that may be harmful or disruptive.
 
 This project serves a practical purpose in environments where it's crucial to monitor and manage noise levels, such as classrooms, libraries, or hospitals.
+ 
+Parts needed:
+Arduino board (1)
+220 Ohm resistor (3)
+RGB LED (1) or Different colored LEDs (3)
+MAX4466 microphone (1)
+Breadboard and wires.
